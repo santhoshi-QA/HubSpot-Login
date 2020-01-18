@@ -6,6 +6,12 @@ import org.openqa.selenium.WebDriver;
 
 import com.qa.Guru99Bank.Base.BasePage;
 
+/**
+ * 
+ * @author Naga
+ *
+ */
+
 public class LoginPage extends BasePage {
 	
 	WebDriver driver;
